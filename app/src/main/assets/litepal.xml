@@ -4,9 +4,9 @@
     <version value="1"/>
 
     <list>
-        <mapping class="com.example.nikoweather.db.Province"/>
-        <mapping class="com.example.nikoweather.db.City"/>
-        <mapping class="com.example.nikoweather.db.County"/>
+        <mapping class="com.example.nikosweather.db.Province"/>
+        <mapping class="com.example.nikosweather.db.City"/>
+        <mapping class="com.example.nikosweather.db.County"/>
     </list>
 
 </litepal>
